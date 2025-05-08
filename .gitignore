@@ -1,0 +1,6 @@
+# Ignore virtual environments and system files
+venv/
+__pycache__/
+*.pkl
+*.csv
+.DS_Store
